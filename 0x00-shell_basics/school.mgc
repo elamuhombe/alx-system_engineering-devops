@@ -1,2 +1,2 @@
 #!/bin/bash
-file *0 -i -m school
+file (0) -i -m school 
