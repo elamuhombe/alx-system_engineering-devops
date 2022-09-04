@@ -1,2 +1,3 @@
 #!/bin/bash
-cp -u /cd -
+cp -R -u .html /cd -
+
