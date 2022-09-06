@@ -1,2 +1,2 @@
 #!/bin/bash
-printf ls -d */$PATH
+ls -d "$PATH"
