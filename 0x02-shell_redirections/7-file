@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'| cut -b 9-17
+echo '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'| cut -b 7-16
