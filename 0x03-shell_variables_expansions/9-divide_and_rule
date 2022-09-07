@@ -1,2 +1,2 @@
 #!/bin/bash
-printf ("\n%d", POWER/DIVIDE)
+printf ( POWER/DIVIDE"\n")
