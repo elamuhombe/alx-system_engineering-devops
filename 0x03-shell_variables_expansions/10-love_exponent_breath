@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(("%d", BREATH=BREATH^LOVE))
+echo $(("%d", BREATH^LOVE))
