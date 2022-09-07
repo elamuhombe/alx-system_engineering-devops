@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"| cut -c 5-15
+echo "'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'"| cut -c 5-15 >>'\*\\'"Best School"\'\\*$\?\*\*\*\*\*\:)'
